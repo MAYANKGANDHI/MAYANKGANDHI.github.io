@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{106:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Mayank Gandhi - Portfolio"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----41de3178dd49c83ccd11.js.map
